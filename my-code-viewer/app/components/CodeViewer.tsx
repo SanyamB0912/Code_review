@@ -1,7 +1,7 @@
 import React from 'react';
 import SyntaxHighlighter from 'react-syntax-highlighter';
 import { darcula } from 'react-syntax-highlighter/dist/esm/styles/hljs';
-import Scrollbar from 'react-scrollbars-custom'; // Import Scrollbar from 'react-scrollbars-custom'
+// import Scrollbar from 'react-scrollbars-custom'; // Import Scrollbar from 'react-scrollbars-custom'
 
 interface CodeViewerProps {
   code: string;
