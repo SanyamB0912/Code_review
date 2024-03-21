@@ -1,0 +1,22 @@
+.code-viewer {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .code-viewer .scroll-content {
+    padding: 10px;
+  }
+  
+  .code-viewer pre {
+    margin: 0;
+  }
+  
+  .code-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Add additional styles for checkboxes or other UI elements as needed */
+  
